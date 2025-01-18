@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/Service.css'; // Assuming you renamed cccccc.css to App.css for convention
 
-import AboutUs from '../data/About.jsx';
+// import AboutUs from '../data/About.jsx';
 
 // Heading Component
 function Heading() {
