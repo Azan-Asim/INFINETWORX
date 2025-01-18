@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faLinkedinIn, faInstagram, faDiscord, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faArrowDown } from '@fortawesome/free-solid-svg-icons';
-import { MdMargin } from 'react-icons/md';
+// import { MdMargin } from 'react-icons/md';
 
 library.add(faLinkedinIn, faInstagram, faDiscord, faGithub, faArrowDown);
 
@@ -25,22 +25,22 @@ const Footersection = () => {
           >
             Join the network today.
           </motion.h1>
-          <a href="#" className="buttons">
+          <a href="/" className="buttons">
             Get Started <FontAwesomeIcon icon={faArrowDown} style={{marginLeft: '15px'} } />
           </a>
 
           <div className="link-row">
             <div className="main-links">
-              <a href="#" className="link">Developer & Companies</a>
-              <a href="#" className="link">Creature</a>
-              <a href="#" className="link">About Us</a>
-              <a href="#" className="link">Contact</a>
+              <a href="/" className="link">Developer & Companies</a>
+              <a href="/" className="link">Creature</a>
+              <a href="/" className="link">About Us</a>
+              <a href="/" className="link">Contact</a>
             </div>
             <div className="social-links">
-              <a href="#" className="link"><FontAwesomeIcon icon={faLinkedinIn} /></a>
-              <a href="#" className="link"><FontAwesomeIcon icon={faInstagram} /></a>
-              <a href="#" className="link"><FontAwesomeIcon icon={faDiscord} /></a>
-              <a href="#" className="link"><FontAwesomeIcon icon={faGithub} /></a>
+              <a href="/" className="link"><FontAwesomeIcon icon={faLinkedinIn} /></a>
+              <a href="/" className="link"><FontAwesomeIcon icon={faInstagram} /></a>
+              <a href="/" className="link"><FontAwesomeIcon icon={faDiscord} /></a>
+              <a href="/" className="link"><FontAwesomeIcon icon={faGithub} /></a>
             </div>
           </div>
 

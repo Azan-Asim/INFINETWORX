@@ -180,7 +180,7 @@ const AboutUs = () => {
         <div style={baseStyles.imgContainer}>
           <img
             src="./meeting.png"
-            alt="Abuzar's profile image during a meeting"
+            alt="Abuzar's profile pic during a meeting"
             style={baseStyles.img}
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
@@ -219,7 +219,7 @@ const AboutUs = () => {
           </div>
 
           <div className="btn-group1">
-            <a href="#" style={baseStyles.btn}>Resume &gt;</a>
+            <a href="/" style={baseStyles.btn}>Resume &gt;</a>
           </div>
         </div>
       </div>

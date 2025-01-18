@@ -22,7 +22,7 @@ const HeroSection = () => {
                 <p>
                     INFINETWORX is a decentralized network and digital space that empowers individuals to connect, create, collaborate, and share in a multiplayer digital economy.
                 </p>
-                <a href="#" className="buttons">
+                <a href="/" className="buttons">
                     Get Started <FaArrowDown style={{ color: "#ffffff", marginLeft: "15px" }} />
                 </a>
             </div>

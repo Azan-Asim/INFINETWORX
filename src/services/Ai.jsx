@@ -76,7 +76,7 @@ function App() {
             Our AI solutions are here to drive innovation, efficiency, and success in your business endeavors.
           </p>
           <div className="button">
-            <a href="#">Let's Connect</a>
+            <a href="/">Let's Connect</a>
           </div>
         </div>
       </div>
@@ -95,7 +95,7 @@ function App() {
               With our holistic AI as a service, we don’t just create AI solutions; we lay the foundation for your business’s sustainable success in the age of AI. Whether it’s automating tasks or enhancing customer experiences we’re here to empower your journey.
             </p>
             <div className="button">
-              <a href="#">Schedule a Demo</a>
+              <a href="/">Schedule a Demo</a>
             </div>
           </div>
           <div className="image-container">

@@ -1,9 +1,9 @@
-import Home from './pages/Home';  // Renaming the import
+import Home from './pages/Home'; 
 
 function App() {
   return (
     <>
-      <Home />  // Use the renamed import here
+      <Home />
     </>
   );
 }
